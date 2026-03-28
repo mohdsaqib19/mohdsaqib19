@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/mohdsaqib19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=👋+Hey%2C+I'm+Mohd+Saqib!;💻+Full+Stack+Developer;📊+Data+Science+%26+ML+Explorer;🚀+Building+Cool+Projects;⚡+Open+to+Collaborations!" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=👋+Hey%2C+I'm+Mohd+Saqib!;💻+Full+Stack+Developer;📊+Data+Science+%26+ML+Explorer;🚀+Building+Cool+Projects;⚡+Open+to+Collaborations!" /> -->
 </a>
 
 <br/>
@@ -58,7 +58,6 @@ me.say_hi()
 
 | 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:---:|:---:|:---:|:---:|
-| **📊 Analytics Dashboard** | Full-stack analytics dashboard with interactive charts, dark/light mode & real-time data | React · TypeScript · Flask · ECharts · MUI | [Live Demo](https://analytics-uqhv.onrender.com) |
 | **🎬 Movie Recommendation System** | ML-powered movie recommender using collaborative filtering | Python · Jupyter · Scikit-learn · Pandas | [View Repo](https://github.com/mohdsaqib19/Movie-recommendation-System) |
 
 </div>
@@ -75,7 +74,6 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### ⚙️ Backend & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -88,9 +86,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -137,7 +133,7 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohdsaqib19-181717?style=for-the-badge&logo=github)](https://github.com/mohdsaqib19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohdsaqib19)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:nssaqib99@gmail.com)
 
 </div>
 
@@ -146,7 +142,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/mohdsaqib19/mohdsaqib19/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohdsaqib19/mohdsaqib19/output/snake.svg" alt="" />
 
 <br/>
 
