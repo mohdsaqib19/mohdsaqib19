@@ -33,13 +33,13 @@ class MohdSaqib:
     role       = "Full Stack Developer | ML Enthusiast"
     
     skills = {
-        "frontend"  : ["React", "TypeScript", "HTML", "CSS", "MUI"],
+        "frontend"  : ["React", "TypeScript", "HTML", "CSS",],
         "backend"   : ["Python", "Flask", "REST APIs"],
         "data"      : ["Pandas", "NumPy", "Scikit-learn", "Jupyter"],
-        "tools"     : ["Git", "GitHub", "VS Code", "Vite", "Render"],
+        "tools"     : ["Git", "GitHub", "VS Code",],
     }
     
-    currently_learning = ["Machine Learning", "Deep Learning", "System Design"]
+    currently_learning = ["Machine Learning", "Deep Learning", "DSA"]
     open_to            = ["Collaborations", "Freelance", "Open Source"]
     fun_fact           = "I debug with chai ☕ and ship with confidence 🚀"
 
