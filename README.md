@@ -107,15 +107,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohdsaqib19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
